@@ -1,1 +1,1 @@
-Here I am teaching git commands
+Here students are learning something about git
